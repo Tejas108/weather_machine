@@ -45,7 +45,7 @@ $(function(){
             current = 'img/cloudy.jpg';
             break;
           case "Overcast":
-            current = 'img/cloudy.jpg';
+            current = 'img/overcast.jpg';
             break;
           case "Clear":
             current = 'img/sunny.jpg';
