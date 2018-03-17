@@ -41,6 +41,9 @@ $(function(){
           case "Partly Sunny":
             current = 'img/partly-cloudy.jpg';
             break;
+          case "Mostly Cloudy":
+            current = 'img/partly-cloudy.jpg';
+            break;
           case "Cloudy":
             current = 'img/cloudy.jpg';
             break;
